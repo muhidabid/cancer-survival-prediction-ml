@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.5.1
+seaborn==0.13.2
+scikit-learn==1.6.1
+torch==2.6.0
+gpytorch==1.14
+mpl_toolkits==3.5.1
+itertools==0.0.1
+jupyter
