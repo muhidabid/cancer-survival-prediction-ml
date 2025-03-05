@@ -1,5 +1,8 @@
 # **Cancer Survival Prediction Models Comparison**
 
+## Video & Report
+Please find the video presentation and comprehensive report for this project [here](https://drive.google.com/drive/folders/17pVnsFQami9umhXfk5zsocYHksiOBD98?usp=drive_link).
+
 ## **Overview**
 This project compares the performance of different machine learning models—Linear Regression, Gaussian Process Regression (GPR), and Neural Networks—in predicting the survival days of cancer patients. The goal is to assess which model provides the most accurate predictions for patient survival, based on various features in the dataset.
 
